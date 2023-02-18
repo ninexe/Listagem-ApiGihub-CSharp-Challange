@@ -1,0 +1,45 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.AssemblyReference.cache
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+D:\workspace\projeto w12\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb

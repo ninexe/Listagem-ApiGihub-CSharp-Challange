@@ -1,0 +1,207 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Commum.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Commum.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\projeto w12\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.AssemblyReference.cache
+D:\workspace\projeto w12\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+D:\workspace\projeto w12\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+D:\workspace\projeto w12\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll

@@ -1,0 +1,109 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Commum.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHubViewModel.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\EntityFramework.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RestSharp.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Commum.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHubViewModel.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\EntityFramework.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RestSharp.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RestSharp.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RestSharp.xml
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\projeto w12\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.AssemblyReference.cache
+D:\workspace\projeto w12\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+D:\workspace\projeto w12\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+D:\workspace\projeto w12\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\System.Net.Http.Formatting.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\System.Web.Http.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\System.Net.Http.Formatting.xml
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\System.Web.Http.xml
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll

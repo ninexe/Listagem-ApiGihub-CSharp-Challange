@@ -1,0 +1,608 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Commum.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHubViewModel.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\WebGrease.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RestSharp.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Commum.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHubViewModel.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\RestSharp.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Commum.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHubViewModel.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\WebGrease.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RestSharp.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Commum.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHubViewModel.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\RestSharp.xml
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\Users\Rodri\Downloads\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\WebGrease.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\git\w12\RepositoriosGitHub\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\WebGrease.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RestSharp.dll
+C:\git\w12\TesteW12Github\RepositorioGitHub.App\bin\RestSharp.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csc.exe
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csc.rsp
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csi.exe
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\csi.rsp
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\vbc.exe
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\EntityFramework.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Razor.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Container.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Mvc.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\WebActivatorEx.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\WebGrease.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\EntityFramework.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Razor.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Container.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Unity.Mvc.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.AssemblyReference.cache
+D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Http.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Net.Http.Formatting.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Http.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Net.Http.Formatting.xml
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\x86\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\x64\sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
