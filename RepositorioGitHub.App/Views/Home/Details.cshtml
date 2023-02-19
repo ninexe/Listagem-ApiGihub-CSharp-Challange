@@ -1,35 +1,35 @@
-﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.GitHubRepositoryViewModel>
+﻿@model RepositorioGitHub.Dominio.GitHubRepository
 
-    @{
-        ViewBag.Title = "Detalhe";
-    }
+@{
+    ViewBag.Title = "Detalhe";
+}
 
-    <h2>Detalhe</h2>
+<h2>Detalhe</h2>
 
-    <table class="table table-striped table-dark">
-        <thead>
-            
-            <tr>
-                <th scope="col">#</th>
-                <th scope="col">Nome</th>
-                <th scope="col">Descrição</th>
-                <th scope="col">Linguagem</th>
-                <th scope="col">Ultima Atualização</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th scope="row">Repositório</th>
-                <td>@Model.Result.Name</td>
-                <td>@Model.Result.Description</td>
-                <td>@Model.Result.Language</td>
-                <td>@Model.Result.UpdatedAt</td>
-            </tr>
-          
-        </tbody>
-    </table>
+<table class="table table-striped table-dark">
+    <thead>
 
-    <p>
-        
-        @Html.ActionLink("Voltar", "Index")
-    </p>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">Linguagem</th>
+            <th scope="col">Ultima Atualização</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Repositório</th>
+            <td>@Model.Name</td>
+            <td>@Model.Description</td>
+            <td>@Model.Language</td>
+            <td>@Model.UpdatedAt</td>
+        </tr>
+
+    </tbody>
+</table>
+
+<p>
+
+    @Html.ActionLink("Voltar", "Index")
+</p>

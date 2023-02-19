@@ -1,36 +1,36 @@
-﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.RepositoryViewModel>
+﻿@model RepositorioGitHub.Dominio.RepositoryViewModel
 @{
     ViewBag.Title = "GetRepositorie";
 }
 
-<h2>Veja outros Repositórios</h2>
+<h2>Pesquise outros Repositórios</h2>
 <br />
 <br />
 @using (Html.BeginForm("GetRepositorie", "Home", FormMethod.Post))
 {
-<div class="row">
-    <div class="col-md-6">
-        <form class="form-inline pull-right ">
-            <div class="form-group">
-                <label class="control-label">Nome do Repositório</label>
-                @Html.TextBoxFor(s => s.Result.Name, new { @class = "form-control" })
-            </div>
+    <div class="row">
+        <div class="col-md-6">
+            <form class="form-inline pull-right ">
+                <div class="form-group">
+                    <label class="control-label">Nome do Repositório</label>
+                    @Html.TextBox("name")
+                </div>
 
-        </form>
-    </div>
-    <div class="col-md-3  " style="padding-top: 25px">
-      
-        <button style="width:65%;float:left" type="submit" class="btn btn-primary  pull-left">Buscar <span class="glyphicon glyphicon-search"></span></button>
+            </form>
+        </div>
+        <div class="col-md-3  " style="padding-top: 25px">
 
+            <button style="width:65%;float:left" type="submit" class="btn btn-primary  pull-left">Buscar <span class="glyphicon glyphicon-search"></span></button>
+
+        </div>
     </div>
-</div>
 
 
 }
 
 <br />
 <br />
-@if (Model.Result != null)
+@if (Model.Repositories != null)
 {
     <div class="row">
         <div class="col-md-12">
@@ -43,7 +43,7 @@
                     <th></th>
                 </tr>
 
-                @foreach (var item in Model.Result.Repositories)
+                @foreach (var item in Model.Repositories)
                 {
                     <tr>
                         <td data-name="@item.Name">

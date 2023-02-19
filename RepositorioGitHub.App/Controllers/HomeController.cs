@@ -1,74 +1,51 @@
-﻿using RepositorioGitHub.Business;
+﻿using Newtonsoft.Json;
+using RepositorioGitHub.Business;
 using RepositorioGitHub.Business.Contract;
 using RepositorioGitHub.Dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using System.Xml.Linq;
 
 namespace RepositorioGitHub.App.Controllers
 {
     public class HomeController : Controller
     {
         private readonly IGitHubApiBusiness _business;
+        
         public HomeController(IGitHubApiBusiness business)
         {
             _business = business;
         }
+
         public ActionResult Index()
         {
-            
             var model = _business.Get();
-            if (model.IsValid)
-            {
-                TempData["success"] = model.Message;
-            }
-            else
-            {
-                TempData["warning"] = model.Message;
-            }
-            
             return View(model);
         }
 
         public ActionResult Details(long id)
         {
-         
             var model = _business.GetById(id);
-            if (model.IsValid)
-            {
-                TempData["success"] = model.Message;
-            }
-            else
-            {
-                TempData["warning"] = model.Message;
-            }
-
             return View(model);
         }
 
         [HttpPost]
-        public ActionResult GetRepositorie(ActionResult<RepositoryViewModel> view)
+        public ActionResult GetRepositorie(string name)
         {
-            ActionResult<RepositoryViewModel> model = new ActionResult<RepositoryViewModel>();
-            if (string.IsNullOrEmpty(view.Result?.Name))
+            RepositoryViewModel model = new RepositoryViewModel();
+
+            if (string.IsNullOrEmpty(name))
             {
-                model.IsValid = false;
-                model.Message = "O Campo Nome Repositório tem que ser Presenchido";
-                TempData["warning"] = model.Message;
                 return View(model);
-            }
-
-             model = _business.GetByName(view.Result.Name);
-
-            if (model.IsValid)
-            {
-                TempData["success"] = model.Message;
             }
             else
             {
-                TempData["warning"] = model.Message;
+                model = _business.GetByName(name);
             }
 
             return View(model);
@@ -77,34 +54,13 @@ namespace RepositorioGitHub.App.Controllers
         [HttpGet]
         public ActionResult GetRepositorie()
         {
-            ActionResult<RepositoryViewModel> model = new ActionResult<RepositoryViewModel>();
-
+            RepositoryViewModel model = new RepositoryViewModel();
             return View(model);
         }
 
-        public ActionResult DetailsRepository(long id, string login)
+        public ActionResult DetailsRepository(long id)
         {
-            ActionResult<GitHubRepositoryViewModel> model = new ActionResult<GitHubRepositoryViewModel>();
-
-            if (string.IsNullOrEmpty(login) && id == 0)
-            {
-                return RedirectToAction("GetRepositorie");
-            }
-            else
-            {
-                
-                model = _business.GetRepository(login, id);
-
-                if (model.IsValid)
-                {
-                    TempData["success"] = model.Message;
-                }
-                else
-                {
-                    TempData["warning"] = model.Message;
-                }
-            }
-            
+            var model = _business.GetById(id);
             return View(model);
         }
 

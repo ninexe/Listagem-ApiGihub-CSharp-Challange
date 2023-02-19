@@ -1,4 +1,4 @@
-﻿ @model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.FavoriteViewModel>
+﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.FavoriteViewModel>
 
 @{
     ViewBag.Title = "Favorite";
@@ -27,7 +27,7 @@
         <th></th>
     </tr>
 
-    @if ( Model?.Results != null)
+    @if (Model?.Result != null)
     {
         foreach (var item in Model.Results)
         {
@@ -41,9 +41,7 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.Language)
                 </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.UpdateLast)
-                </td>
+
                 <td>
                     @Html.DisplayFor(modelItem => item.Owner)
                 </td>

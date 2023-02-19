@@ -1,4 +1,4 @@
-﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.GitHubRepositoryViewModel>
+﻿@model RepositorioGitHub.Dominio.RepositoryViewModel
 @{
     ViewBag.Title = "Home Page";
 }
@@ -6,9 +6,9 @@
 
 <h2>Teste Desenvolvedor W12 - Guilherme Corrêa</h2>
 
-<div class="jumbotron">   
-    <p class="lead">Implemente a API do github no projeto seguindo a documentação abaixo:</p>    
-    <hr class="my-4">    
+<div class="jumbotron">
+    <p class="lead">Implemente a API do github no projeto seguindo a documentação abaixo:</p>
+    <hr class="my-4">
     <p class="lead">
         <a class="btn btn-primary btn-lg" target="_blank" href="https://docs.github.com/en" role="button">Visite a documentação</a>
     </p>
@@ -19,15 +19,15 @@
         <table class="table">
             <tr>
                 <th>Nome</th>
-                <th>Proprietario</th>
+                <th>Proprietário</th>
                 <th>Nome Completo</th>
                 <th>URL</th>
                 <th></th>
             </tr>
 
-            @if (Model != null && Model.Results != null)
+            @if (Model != null && Model.Repositories != null)
             {
-                foreach (var item in Model.Results)
+                foreach (var item in Model.Repositories)
                 {
                     <tr>
                         <td>
@@ -41,7 +41,7 @@
                             @Html.DisplayFor(modelItem => item.FullName)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.Url)
+                            @Html.DisplayFor(modelItem => item.HtmlUrl)
                         </td>
 
                         <td>
@@ -50,7 +50,7 @@
                     </tr>
                 }
             }
-        </table>      
+        </table>
     </div>
 </div>
 

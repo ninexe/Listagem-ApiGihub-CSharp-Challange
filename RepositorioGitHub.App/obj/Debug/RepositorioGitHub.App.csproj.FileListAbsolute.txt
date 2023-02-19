@@ -597,12 +597,9 @@ D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.c
 D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
 D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
 D:\workspace\projeto w12\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
-D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Http.dll
-D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Net.Http.Formatting.dll
-D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Web.Http.xml
-D:\workspace\projeto w12\RepositorioGitHub.App\bin\System.Net.Http.Formatting.xml
 D:\workspace\projeto w12\RepositorioGitHub.App\bin\x86\sqlite3.dll
 D:\workspace\projeto w12\RepositorioGitHub.App\bin\x64\sqlite3.dll
 D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
 D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
 D:\workspace\projeto w12\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+D:\workspace\projeto w12\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll.config
