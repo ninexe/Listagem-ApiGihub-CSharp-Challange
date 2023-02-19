@@ -24,7 +24,7 @@
 
 ### - *Bônus = se optar em fazer a tela de favoritos funcionar, implementar um mecanismo de repositório seguindo as regras citadas acima. E implementar o botão de favoritar na tela de detalhes dos repositórios.
 
-## Seu papel é corrigir esses problemas de modo que o projeto consiga cumprir os objetivos definidos, porém sinta se livre para melhorar layout, usabilidade e qualidade do código.
+### - Seu papel é corrigir esses problemas de modo que o projeto consiga cumprir os objetivos definidos, porém sinta se livre para melhorar layout, usabilidade e qualidade do código.
 
 
 ## PREMISSAS DO PROJETO
